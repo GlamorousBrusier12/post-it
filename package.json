@@ -27,6 +27,7 @@
     "express": "^4.17.1",
     "graphql": "^15.8.0",
     "pg": "^8.11.3",
+    "reflect-metadata": "^0.2.1",
     "ts-node": "^10.9.2",
     "tsc": "^2.0.4",
     "type-graphql": "^1.1.1"
